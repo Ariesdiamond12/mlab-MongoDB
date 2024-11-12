@@ -2,6 +2,7 @@
 
 - Install MongoDB and MongoDB Shell 
 - Open a terminal or command prompt and navigate to the directory where you want to create your MongoDB database.
+- On the terminal or command prompt type mongosh to start MongoDB
 - On the terminal or command prompt, type the following command to create a new database, : use mydatabase
 - Then we must create a collection , because in MongoDB for your database to visible you must have a collection
 - On the terminal or command prompt, type the following command to create a new collection, : db.collectionName.insertOne({""})
