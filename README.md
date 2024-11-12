@@ -10,3 +10,4 @@
 - In each collection you are going to have a field that is going to represnt the data e.g db.Trainees.insertOne({name:Ashley})
 - How to see the collections that you have created in your database, run the command show collections on the terminal or command promp to view the collections in your database.
 
+![Screenshot (7)](https://github.com/user-attachments/assets/f9c12a3a-5655-4174-a2bc-774e6099ef95)
