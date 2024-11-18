@@ -1,4 +1,4 @@
-# mLab-MongoDB - Creating a Database and a Collection in MongoDB
+# mLab-MongoDB - Activity 1 - Creating a Database and a Collection in MongoDB
 
 - Install MongoDB and MongoDB Shell 
 - Open a terminal or command prompt and navigate to the directory where you want to create your MongoDB database.
